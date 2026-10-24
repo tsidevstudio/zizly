@@ -1,57 +1,47 @@
 # Zizly
 
-Zizly is an Android sleep talk recorder designed to capture and review sounds during sleep.
+**Sleep Talk Recorder for Android**
 
-It helps users record nighttime audio and revisit moments such as sleep talking, unusual sounds or other activity that happens while sleeping.
+Zizly is an Android app focused on recording and reviewing sleep-talk audio in a simple, privacy-conscious workflow.
 
-## Features
+## What it does
 
-- Sleep audio recording
-- Review recorded nighttime sounds
-- Organize recordings by session
-- Simple playback
-- Local storage
-- Privacy-conscious design
-- No unnecessary account requirement
-- Focused Android experience
-- Multi-language support
+- Sleep-talk recording workflow
+- Review captured audio
+- Localized user experience across multiple languages
+- Privacy-conscious local handling where practical
 
-## Useful for
+## Product principles
 
-Zizly can help users:
+- Focused sleep-audio utility
+- Clear user control
+- Local-first where practical
+- Simple review workflow
 
-- Capture sleep talking
-- Review unusual nighttime sounds
-- Track interesting sleep audio
-- Keep a personal archive of sleep recordings
-- Revisit specific nighttime events
+## Public documentation
 
-## Privacy approach
+| Document | Purpose |
+| --- | --- |
+| [Getting Started](docs/getting-started.md) | Public setup and usage guidance |
+| [Recording Guide](docs/recording-guide.md) | Public user-facing documentation |
+| [Support](SUPPORT.md) | Support and official contact channels |
+| [Changelog](CHANGELOG.md) | Public product changes |
 
-Zizly is designed around local control of recordings.
+## Official links
 
-The app focuses on:
+- TSI Dev Studio: https://tsidevstudio.com
+- Blog: https://blog.tsidevstudio.com
 
-- Local storage
-- No unnecessary accounts
-- Minimal data exposure
-- No unnecessary cloud dependence
-- User-controlled audio data
+## About this repository
 
-## TSI Dev Studio
+This repository is for public product information, documentation, verification links and release-related resources.
 
-Zizly is developed by TSI Dev Studio, an independent Android developer focused on practical, privacy-conscious and local-first mobile apps.
+Unless explicitly stated otherwise, the application source code is not published here.
 
-Official website:
+Internal architecture and implementation details are intentionally excluded from public documentation.
+
+## Developer
+
+**TSI Dev Studio**
 
 https://tsidevstudio.com
-
-Other projects include Xsilent, Nullun, MicutVault, AnonyPic, Seabil, HEZX, Annum and Zekro.
-
-## Contact
-
-General: contact@tsidevstudio.com
-
-App support: support@tsidevstudio.com
-
-Press & media: press@tsidevstudio.com
